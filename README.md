@@ -1,4 +1,11 @@
-# InstaCartBasketAnalysis
+#InstaCart Basket Analysis
+## Table of Contents
+* [Project Management](#Project-Management)
+* [Scripts](#Scripts)
+* [Analysis](#Analysis)
+* [Sent_to_Client](#Sent_to_Client)
+
+## General Info
 
 In this analysis project, the Instacart stakeholders are most interested in the variety of customers in their database along with the their purchasing behaviors.
 They assume they can't target everyone using the same methods, and they are considering a targeted marketing strategy.
@@ -14,10 +21,3 @@ Key Questions
   Is there a connection between age and family status in terms of ordering habits?
   What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
   What differences can we find in ordering habits of different customer profiles?
-
-## Table of Contents
-* [Project Management](#Project-Management)
-* [Scripts](#Scripts)
-* [Analysis](#Analysis)
-* [Sent_to_Client](#Sent_to_Client)
-

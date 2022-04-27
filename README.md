@@ -28,3 +28,4 @@ Project was created with:
 * Jupyter Notebook
 * Google Colab
 * Google Drive
+* Anaconda

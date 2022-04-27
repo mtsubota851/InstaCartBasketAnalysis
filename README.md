@@ -17,3 +17,6 @@ Key Questions
 
 ## Table of Contents
 * [Project Management](#Project-Management)
+* [Scripts](#Scripts)
+* [Analysis](#Analysis)
+* 

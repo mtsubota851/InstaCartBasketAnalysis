@@ -14,3 +14,6 @@ Key Questions
   Is there a connection between age and family status in terms of ordering habits?
   What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
   What differences can we find in ordering habits of different customer profiles?
+
+## Table of Contents
+* [Project Brief](#Project-Brief)

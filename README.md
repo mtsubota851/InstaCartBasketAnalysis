@@ -16,4 +16,4 @@ Key Questions
   What differences can we find in ordering habits of different customer profiles?
 
 ## Table of Contents
-* [Project Brief](#Project-Brief)
+* [Project Management](#Project-Management)

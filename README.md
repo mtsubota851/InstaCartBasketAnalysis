@@ -1,4 +1,4 @@
-#InstaCart Basket Analysis
+#InstaCartBasketAnalysis
 ## Table of Contents
 * [Project Management](#Project-Management)
 * [Scripts](#Scripts)

@@ -1,10 +1,7 @@
 # InstaCart Basket Analysis
 ## Table of Contents
-* [Project Management](#Project-Management)
-* [Scripts](#Scripts)
-* [Analysis](#Analysis)
-* [Sent_to_Client](#Sent_to_Client)
-
+* [General Info](#general-info)
+* [Technologies](#technologies)
 ## General Info
 
 In this analysis project, the Instacart stakeholders are most interested in the variety of customers in their database along with the their purchasing behaviors.
